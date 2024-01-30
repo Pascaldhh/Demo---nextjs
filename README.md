@@ -2,7 +2,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Used for styling [TailwindCSS](https://tailwindcss.com/) and for the scroll animations [GSAP ScrollTrigger](https://gsap.com/docs/v3/Plugins/ScrollTrigger/).
 
-## Getting Started
+## Live website
+
+To view the website visit [http://demo.devpascal.nl/](http://demo.devpascal.nl/)
+
+## How to run locally
 
 To run the development server:
 
