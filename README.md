@@ -1,5 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-For styling [TailwindCSS](https://tailwindcss.com/) and for the scroll animations [GSAP ScrollTrigger](https://gsap.com/docs/v3/Plugins/ScrollTrigger/)
+
+Used for styling [TailwindCSS](https://tailwindcss.com/) and for the scroll animations [GSAP ScrollTrigger](https://gsap.com/docs/v3/Plugins/ScrollTrigger/).
 
 ## Getting Started
 
